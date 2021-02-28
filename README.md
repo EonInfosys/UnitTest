@@ -15,6 +15,12 @@ The client method for execution will run only a single test file. Here you need 
 
     php ./vendor/bin/phpunit -c dev/tests/unit/phpunit.xml.dist app/code/EonInfosys/UnitTest/Test/Unit/Model/Calculator.php
 
+
+
+
+   ![unitTestCli](docs/unitTestCli.png)
+
+
 ### Magento Commands
 
 Magento commands will help you to execute all the tests written by Magento and by you. You need to run the below command from the root of Magento.
